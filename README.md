@@ -53,8 +53,8 @@ Andypolis/
 ## ⚙️ Compilation & Execution
 1. Clone the repository:
   ```bash
-  git clone git@github.com:SebaB29/Andypolis.git
-  cd Andypolis
+  git clone git@github.com:SebaB29/andypolis.git
+  cd andypolis
   ```
 2. Compile the project:
   ```bash
@@ -62,7 +62,7 @@ Andypolis/
   ```
 3. Run the game:
   ```bash
-  ./Andypolis
+  ./andypolis
   ```
 4. Run with Valgrind (Memory Check):
   ```bash
